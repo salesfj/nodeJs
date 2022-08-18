@@ -1,6 +1,6 @@
-console.log("Hello World");
-console.log("Git - Alteração. Cadê o novo commit?");
-console.log("Qualquer coisa");
-console.log("18/08/2022 20:30");
-console.log("18/08/2022 20:35");
-console.log("18/08/2022 20:38");
+console.log("Alteração do arquivo");
+console.log("Salvar arquivo");
+console.log("Mensagem de commit");
+console.log("Confirmação");
+console.log("Sincronizar alterações");
+console.log("18/08/2022 20:44");
