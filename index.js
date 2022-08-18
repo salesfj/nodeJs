@@ -1,6 +1,7 @@
-console.log("Alteração do arquivo");
-console.log("Salvar arquivo");
-console.log("Mensagem de commit");
-console.log("Confirmação");
-console.log("Sincronizar alterações");
-console.log("18/08/2022 20:44");
+console.log("1 - Alteração do arquivo");
+console.log("2 - Salvar arquivo");
+console.log("3 - Mensagem de commit");
+console.log("4 - Confirmação");
+console.log("5 - Sincronizar alterações");
+console.log("6 - 18/08/2022 20:44");
+console.log("git push origin master");
